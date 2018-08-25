@@ -7,6 +7,9 @@ I am going to learn git commands..
 added one more line to sample file
 learning about mergimg two files using pull request
 
+creating new branch 
+named newsample
+
 
 
 thankyou
